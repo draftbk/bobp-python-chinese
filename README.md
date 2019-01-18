@@ -1,6 +1,6 @@
-# Python 代码规范指南
+# Python 代码规范
 
-一个写 Python 的代码规范指南
+觉得有用的给颗星补贴家用呀!
 
 > 翻译自: [https://gist.github.com/sloria/7001839](https://gist.github.com/sloria/7001839) (有些翻译的不太好就只能对照一下英文原文来理解了 ʅ(‾◡◝)ʃ ）
 
